@@ -1,4 +1,4 @@
-# LTspice Simulation Project 🚀
+# LTspice Simulation Circuit Models 🚀
 
 This project contains various SPICE simulations to analyze and understand different electronic circuits and their behaviors. Each simulation includes models and their corresponding graphs, illustrating key characteristics and responses.
 
