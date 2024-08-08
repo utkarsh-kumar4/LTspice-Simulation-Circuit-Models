@@ -22,13 +22,17 @@ This project contains various SPICE simulations to analyze and understand differ
 
 <table>
   <tr>
-    <td>
-      <strong>Model 🔌</strong><br>
-      <img src="" width="400" alt="Original Image">
+    <td valign="top">
+      <strong>Model 🔌</strong><br><br>
+      <img src="https://github.com/utkarsh-kumar4/LTspice-Simulation-Models/blob/main/Mesh_and_Nodal_Analysis/Mesh_and_Nodal_Analysis_Model.png" width="400" alt="Original Image">
     </td>
-    <td>
-      <strong>Graph 📈</strong><br>
-      <img src="" width="400" alt="Blurred Image">
+    <td valign="top">
+      <strong>Graph 📈</strong><br><br>
+      <img src="https://github.com/utkarsh-kumar4/LTspice-Simulation-Models/blob/main/Mesh_and_Nodal_Analysis/Mesh_and_Nodal_Analysis_Graph.png" width="400" alt="Blurred Image">
+    </td>
+    <td valign="top">
+      <strong>Log 📋</strong><br><br>
+      <img src="https://github.com/utkarsh-kumar4/LTspice-Simulation-Models/blob/main/Mesh_and_Nodal_Analysis/Mesh_and_Nodal_Analysis_log.png" width="400" alt="Blurred Image">
     </td>
   </tr>
 </table>
@@ -48,18 +52,18 @@ This project contains various SPICE simulations to analyze and understand differ
 
 <table>
   <tr>
-    <td>
-      <strong>Model 🔌</strong><br>
-      <img src="" width="400" alt="Original Image">
+    <td valign="top">
+      <strong>Model 🔌</strong><br><br>
+      <img src="https://github.com/utkarsh-kumar4/LTspice-Simulation-Models/blob/main/IV_Characteristics_Diode/IV_Characteristics_Diode_Model.png" width="400" alt="Original Image">
     </td>
-    <td>
-      <strong>Graph 📈</strong><br>
-      <img src="" width="400" alt="Blurred Image">
+    <td valign="top">
+      <strong>Graph 📈</strong><br><br>
+      <img src="https://github.com/utkarsh-kumar4/LTspice-Simulation-Models/blob/main/IV_Characteristics_Diode/IV_Characteristics_Diode_Graph.png" width="400" alt="Blurred Image">
     </td>
   </tr>
 </table>
 
-### 3. Half Wave Rectifier ⚡
+### 3. Half-Wave Rectifier ⚡
 
 - **Operation:** 
   - Converts AC (alternating current) to pulsating DC (direct current).
@@ -75,18 +79,18 @@ This project contains various SPICE simulations to analyze and understand differ
 
 <table>
   <tr>
-    <td>
-      <strong>Model 🔌</strong><br>
+    <td valign="top">
+      <strong>Model 🔌</strong><br><br>
       <img src="" width="400" alt="Original Image">
     </td>
-    <td>
-      <strong>Graph 📈</strong><br>
+    <td valign="top">
+      <strong>Graph 📈</strong><br><br>
       <img src="" width="400" alt="Blurred Image">
     </td>
   </tr>
 </table>
 
-### 4. Full Wave Rectifier 🌐
+### 4. Full-Wave Rectifier 🌐
 
 - **Operation:** 
   - Converts AC to DC by utilizing both half-cycles of the AC input.
@@ -102,13 +106,13 @@ This project contains various SPICE simulations to analyze and understand differ
 
 <table>
   <tr>
-    <td>
-      <strong>Model 🔌</strong><br>
-      <img src="" width="400" alt="Original Image">
+    <td valign="top">
+      <strong>Model 🔌</strong><br><br>
+      <img src="https://github.com/utkarsh-kumar4/LTspice-Simulation-Models/blob/main/Full_Wave_Rectifier/Full_Wave_Rectifier_Model.png" width="400" alt="Original Image">
     </td>
-    <td>
-      <strong>Graph 📈</strong><br>
-      <img src="" width="400" alt="Blurred Image">
+    <td valign="top">
+      <strong>Graph 📈</strong><br><br>
+      <img src="https://github.com/utkarsh-kumar4/LTspice-Simulation-Models/blob/main/Full_Wave_Rectifier/Full_Wave_Rectifier_Graph.png" width="400" alt="Blurred Image">
     </td>
   </tr>
 </table>
@@ -129,18 +133,18 @@ This project contains various SPICE simulations to analyze and understand differ
 
 <table>
   <tr>
-    <td>
-      <strong>Model 🔌</strong><br>
-      <img src="" width="400" alt="Original Image">
+    <td valign="top">
+      <strong>Model 🔌</strong><br><br>
+      <img src="https://github.com/utkarsh-kumar4/LTspice-Simulation-Models/blob/main/Clipper_Circuits/Clipper_Circuits_Model.png" width="400" alt="Original Image">
     </td>
-    <td>
-      <strong>Graph 📈</strong><br>
-      <img src="" width="400" alt="Blurred Image">
+    <td valign="top">
+      <strong>Graph 📈</strong><br><br>
+      <img src="https://github.com/utkarsh-kumar4/LTspice-Simulation-Models/blob/main/Clipper_Circuits/Clipper_Circuits_Graph.png" width="400" alt="Blurred Image">
     </td>
   </tr>
 </table>
 
-### 6. Low Pass Filter 🎚️
+### 6. Low-Pass Filter 🎚️
 
 - **Purpose:** 
   - Allows low-frequency signals to pass while attenuating high-frequency signals.
@@ -156,18 +160,18 @@ This project contains various SPICE simulations to analyze and understand differ
 
 <table>
   <tr>
-    <td>
-      <strong>Model 🔌</strong><br>
-      <img src="" width="400" alt="Original Image">
+    <td valign="top">
+      <strong>Model 🔌</strong><br><br>
+      <img src="https://github.com/utkarsh-kumar4/LTspice-Simulation-Models/blob/main/Low_Pass_Filter/Low_Pass_Filter_Model.png" width="400" alt="Original Image">
     </td>
-    <td>
-      <strong>Graph 📈</strong><br>
-      <img src="" width="400" alt="Blurred Image">
+    <td valign="top">
+      <strong>Graph 📈</strong><br><br>
+      <img src="https://github.com/utkarsh-kumar4/LTspice-Simulation-Models/blob/main/Low_Pass_Filter/Low_Pass_Filter_Graph.png" width="400" alt="Blurred Image">
     </td>
   </tr>
 </table>
 
-### 7. High Pass Filter 🔊
+### 7. High-Pass Filter 🔊
 
 - **Purpose:** 
   - Allows high-frequency signals to pass while attenuating low-frequency signals.
@@ -183,13 +187,13 @@ This project contains various SPICE simulations to analyze and understand differ
 
 <table>
   <tr>
-    <td>
-      <strong>Model 🔌</strong><br>
-      <img src="" width="400" alt="Original Image">
+    <td valign="top">
+      <strong>Model 🔌</strong><br><br>
+      <img src="https://github.com/utkarsh-kumar4/LTspice-Simulation-Models/blob/main/High_Pass_Filter/High_Pass_Filter_Model.png" width="400" alt="Original Image">
     </td>
-    <td>
-      <strong>Graph 📈</strong><br>
-      <img src="" width="400" alt="Blurred Image">
+    <td valign="top">
+      <strong>Graph 📈</strong><br><br>
+      <img src="https://github.com/utkarsh-kumar4/LTspice-Simulation-Models/blob/main/High_Pass_Filter/High_Pass_Filter_Graph.png" width="400" alt="Blurred Image">
     </td>
   </tr>
 </table>
