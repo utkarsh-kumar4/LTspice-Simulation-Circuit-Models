@@ -1,4 +1,4 @@
-# SPICE Simulation Project 🚀
+# LTspice Simulation Project 🚀
 
 This project includes various SPICE simulations and their corresponding graphs. Each simulation demonstrates a fundamental concept in electrical engineering. Below are the details of each simulation:
 
@@ -93,6 +93,8 @@ This project includes various SPICE simulations and their corresponding graphs. 
 |-------|-------|
 | ![High Pass Filter Model](path/to/high_pass_filter_model.png) | ![High Pass Filter Graph](path/to/high_pass_filter_graph.png) |
 
+---
+
 ## Getting Started
 
 To run these simulations, you need to have a SPICE simulator installed on your machine. Follow the instructions below to get started:
@@ -106,3 +108,17 @@ To run these simulations, you need to have a SPICE simulator installed on your m
    cd spice-simulation-project
    ```
 3. Open the simulation files in your SPICE simulator and run the simulations.
+
+---
+
+## 🛠️ Dependencies
+
+To run these simulations, you need to have LTspice installed on your machine. You can download and install it from the following link:
+
+- [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html): A high-performance SPICE simulator, schematic capture, and waveform viewer with enhancements and models for easing the simulation of switching regulators.
+
+Make sure LTspice is installed before running the simulations.
+
+## 👤 Author
+
+[Utkarsh Kumar](https://github.com/utkarsh-kumar4) 👨🏻‍💻🎓
