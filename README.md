@@ -1,4 +1,4 @@
-# SPICE Simulation Project 🚀
+# LTspice Simulation Project 🚀
 
 This project contains various SPICE simulations to analyze and understand different electronic circuits and their behaviors. Each simulation includes models and their corresponding graphs, illustrating key characteristics and responses.
 
@@ -81,11 +81,11 @@ This project contains various SPICE simulations to analyze and understand differ
   <tr>
     <td valign="top">
       <strong>Model 🔌</strong><br><br>
-      <img src="" width="400" alt="Original Image">
+      <img src="https://github.com/utkarsh-kumar4/LTspice-Simulation-Models/blob/main/Half_Wave_Rectifier/Half_Wave_Rectifier_Model.png" width="400" alt="Original Image">
     </td>
     <td valign="top">
       <strong>Graph 📈</strong><br><br>
-      <img src="" width="400" alt="Blurred Image">
+      <img src="https://github.com/utkarsh-kumar4/LTspice-Simulation-Models/blob/main/Half_Wave_Rectifier/Half_Wave_Rectifier_Graph.png" width="400" alt="Blurred Image">
     </td>
   </tr>
 </table>
